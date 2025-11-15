@@ -1,7 +1,6 @@
 # HDFC-Ulip-Strategy_HDFC-Life-Smart-Protect-Plan
 
-# Create README.md with tables and summaries
-content = """# ULIP Allocation Strategy (HDFC Life)
+ULIP Allocation Strategy (HDFC Life)
 
 ## ⭐ Best Allocation Summary (to reach higher value)
 
