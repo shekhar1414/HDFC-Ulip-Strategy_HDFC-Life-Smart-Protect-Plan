@@ -43,11 +43,3 @@ ULIP Allocation Strategy (HDFC Life)
 - **16–20 years:** Add debt → protect gains.  
 
 ---
-
-## 📦 Suitable for GitHub
-Clean, organized, and ready to upload.
-"""
-with open("/mnt/data/README_ULIP.md","w",encoding="utf-8") as f:
-    f.write(content)
-
-"/mnt/data/README_ULIP.md created"
